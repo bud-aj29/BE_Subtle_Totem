@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Totem texture is scaled down",
+        "name": "Subtle_Totem",
+        "uuid": "6d85efa8-1f5e-49dd-8a01-dcbbce924ece",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "3398b3dd-dcad-4594-a434-4d0020335d83",
+            "version": [0, 0, 1]
+        }
+    ]
+}
